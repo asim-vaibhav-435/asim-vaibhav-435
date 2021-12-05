@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love sports and know to play most of them.**
 
 ## 🚀 Languages and Tools:
 
