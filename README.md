@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
-- ⚡ Fun fact **I love TRAVELLING and know to play most of them.**
+- ⚡ Fun fact **I love TRAVELLING and SWIMMING.**
 
 ## 🚀 Languages and Tools:
 
