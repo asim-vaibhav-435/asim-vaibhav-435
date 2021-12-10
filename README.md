@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asimvaibhav Tiwari</h1>
-<h3 align="center">I'm currently pursuing B.E. Computer science.</h3>
+<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%2336BCF7&width=490&lines=Hi%2C+I'm+Asim+Vaibhav!;Currently+pursuing+my+B.E+in+CS;"> </p>
 
 
 ## 🙋‍♂️ About Me
