@@ -21,7 +21,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com" target="_blank"> <img src="https://icons8.com/icon/20906/git"/> </a>
+    <a href="https://git-scm.com" target="_blank"> <img src="![image](https://github.com/asim-vaibhav-435/asim-vaibhav-435/assets/95579565/a750d256-3c88-4c32-8d54-b4b43e95df0b)"/> </a>
 </p>
 
 
