@@ -21,7 +21,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.adobe.com/in/products/photoshop.html"> <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/> </a>
+    <a href=""> <img src="[https://img.icons8.com/fluency/48/000000/adobe-photoshop.png](https://icons8.com/icon/20906/git)"/> </a>
 </p>
 
 
