@@ -1,4 +1,4 @@
-<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%2336BCF7&width=490&lines=Hi%2C+I'm+Asim+Vaibhav!;Currently+pursuing+my+B.E+in+CS;"> </p>
+<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%2336BCF7&width=490&lines=Hi%2C+I'm+Asimvaibhav+Tiwari!;Currently+pursuing+my+B.E+in+CS;"> </p>
 
 
 ## 🙋‍♂️ About Me
