@@ -3,8 +3,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at my github repositories. 
